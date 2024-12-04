@@ -1,0 +1,181 @@
+D:\project\web\assets\cool\IMG-20240924-WA0006.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0007.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0008.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0009.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0011.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0033.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0034.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0035.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0036.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0037.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0038.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0039.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0040.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0041.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0043.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0044.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0046.jpg
+D:\project\web\assets\cool\IMG-20240924-WA0047.jpg
+D:\project\web\assets\cool\IMG-20240925-WA0021.jpg
+D:\project\web\assets\cool\IMG-20241009-WA0006.jpg
+D:\project\web\assets\cool\IMG-20241009-WA0008.jpg
+D:\project\web\assets\cool\IMG-20241009-WA0009.jpg
+D:\project\web\assets\cool\IMG-20241009-WA0010.jpg
+D:\project\web\assets\cool\IMG-20241009-WA0011.jpg
+D:\project\web\assets\cool\IMG-20241018-WA0022.jpg
+D:\project\web\assets\cool\IMG-20241122-WA0009.jpg
+D:\project\web\assets\cool\IMG-20241122-WA0010.jpg
+D:\project\web\assets\cool\IMG-20241122-WA0011.jpg
+D:\project\web\assets\cool\IMG-20241122-WA0012.jpg
+D:\project\web\assets\cool\IMG-20241122-WA0013.jpg
+D:\project\web\assets\cool\IMG-20241122-WA0018.jpg
+D:\project\web\assets\cool\IMG-20241122-WA0024.jpg
+D:\project\web\assets\cool\IMG-20241122-WA0026.jpg
+D:\project\web\assets\cool\IMG-20241122-WA0028.jpg
+D:\project\web\assets\cool\IMG-20241122-WA0033.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"D:\project\web\assets\mens\IMG-20241118-WA0024.jpg"
+"D:\project\web\assets\mens\IMG-20241118-WA0026.jpg"
+"D:\project\web\assets\mens\IMG-20241123-WA0012.jpg"
+"D:\project\web\assets\mens\IMG-20241127-WA0015.jpg"
+"D:\project\web\assets\mens\IMG-20241127-WA0016.jpg"
+"D:\project\web\assets\mens\IMG-20241127-WA0017.jpg"
+"D:\project\web\assets\mens\IMG-20241128-WA0013.jpg"
+"D:\project\web\assets\mens\IMG-20241128-WA0020.jpg"
+"D:\project\web\assets\mens\g4.jpg"
+"D:\project\web\assets\mens\IMG-20240920-WA0037.jpg"
+"D:\project\web\assets\mens\IMG-20240920-WA0039.jpg"
+"D:\project\web\assets\mens\IMG-20240920-WA0040.jpg"
+"D:\project\web\assets\mens\IMG-20240920-WA0043.jpg"
+"D:\project\web\assets\mens\IMG-20241105-WA0006.jpg"
+"D:\project\web\assets\mens\IMG-20241109-WA0009.jpg"
+"D:\project\web\assets\mens\IMG-20241109-WA0010.jpg"
+"D:\project\web\assets\mens\IMG-20241113-WA0010.jpg"
+"D:\project\web\assets\mens\IMG-20241113-WA0011.jpg"
+"D:\project\web\assets\mens\IMG-20241118-WA0022.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"D:\project\web\assets\womens\IMG-20241118-WA0030.jpg"
+"D:\project\web\assets\womens\IMG-20241118-WA0031.jpg"
+"D:\project\web\assets\womens\IMG-20241118-WA0032.jpg"
+"D:\project\web\assets\womens\IMG-20241120-WA0019.jpg"
+"D:\project\web\assets\womens\IMG-20241127-WA0019.jpg"
+"D:\project\web\assets\womens\IMG-20241128-WA0009.jpg"
+"D:\project\web\assets\womens\IMG-20241128-WA0013.jpg"
+"D:\project\web\assets\womens\IMG-20241128-WA0022.jpg"
+"D:\project\web\assets\womens\IMG-20241128-WA0023.jpg"
+"D:\project\web\assets\womens\IMG-20241128-WA0024.jpg"
+"D:\project\web\assets\womens\IMG-20241128-WA0025.jpg"
+"D:\project\web\assets\womens\IMG-20241128-WA0026.jpg"
+"D:\project\web\assets\womens\IMG-20241128-WA0027.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>About Us</title>
+    <link rel="stylesheet" href="about.css"> <!-- Link to your CSS file -->
+  
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <nav class="navbar">
+            <div class="logo">KAVITHA OPTICAL</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="product.html">Products</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="about.html" class="active">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- About Us Section -->
+    <section class="about">
+        <div class="about-content">
+            <h1>Welcome to Kavitha Opticals</h1>
+            <p>
+                Your trusted partner in achieving perfect vision and style. With a commitment to quality and customer satisfaction, we provide a wide range of premium eyewear solutions tailored to suit your needs.
+            </p>
+        </div>
+        <div class="about-image">
+            <img src="assets\about\IMG_20241203_103303.jpg" alt="About Us Image">
+        </div>
+    </section>
+
+    <!-- Our Mission and Vision -->
+    <section class="mission-vision">
+        <div class="card">
+            <h2>Our Mission</h2>
+            <p>
+                Our mission is to provide high-quality eyewear and advanced eye care solutions that blend functionality with style. We are committed to ensuring precise vision through expert services and state-of-the-art technology while delivering a personalized and seamless experience to every customer.
+            </p>
+        </div>
+        <div class="card">
+            <h2>Our Vision</h2>
+            <p>
+                To become a leading provider of innovative and high-quality eyewear solutions, empowering individuals with perfect vision and enhancing their style. We aim to set a benchmark in eye care by delivering exceptional service and personalized experiences to our customers.
+            </p>
+        </div>
+    </section>
+
+    <!-- Photo Gallery Section -->
+    <section class="photo-gallery">
+        <h2>Photo Gallery</h2>
+        <div class="gallery-grid">
+            <img src="assets\about\a1.jpg" alt="Gallery Image 1">
+            <img src="assets\about\a2.jpg" alt="Gallery Image 2">
+            <img src="assets\about\IMG_20241203_103303.jpg" alt="Gallery Image 3">
+            <img src="assets\about\IMG_20241203_103252.jpg" alt="Gallery Image 4">
+            <img src="assets\cool\IMG-20241009-WA0009.jpg" alt="Gallery Image 5">
+            <img src="D:\project\web\assets\glass\IMG-20241016-WA0022.jpg" alt="Gallery Image 6">
+        </div>
+    </section>
+
+
+</body>
+</html>
